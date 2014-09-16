@@ -16,3 +16,22 @@
 /tmp
 
 Gemfile.lock
+
+#stuff ben added
+.nitrousboxrc.sample
+.VERSION
+.bash_history
+.bash_profile
+.bashrc
+.cache/
+.gem/
+.gemrc
+.gitconfig
+.nitrousboxrc.sample
+.pam_environment
+.parts/
+.ruby-version
+.ssh/
+.tmux.conf
+.vim/
+.viminfo
